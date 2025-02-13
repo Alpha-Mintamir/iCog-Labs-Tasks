@@ -93,4 +93,3 @@
 !(assertEqualToResult
   (fc eligible (fromNumber 1))
   (eligible))
-"
