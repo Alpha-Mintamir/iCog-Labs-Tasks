@@ -28,7 +28,7 @@ This project implements an intelligent system for classifying tomato leaf diseas
 ## Model Training
 
 ### Dataset
-- Source: [Kaggle Tomato Leaf Disease Dataset](https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf).
+- Source: [Kaggle Plant Village Dataset](https://www.kaggle.com/datasets/arjuntejaswi/plant-village).
 - **Important Note**: Due to computational constraints on Kaggle/Colab, only 50% of the dataset was used for training.
 - This reduction in training data affected the model's learning rate and potentially its overall accuracy.
 
