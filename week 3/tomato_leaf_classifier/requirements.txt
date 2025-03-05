@@ -1,0 +1,11 @@
+fastapi>=0.68.0
+uvicorn>=0.15.0
+numpy>=1.19.5
+Pillow>=8.3.1
+keras>=3.0.0
+python-multipart>=0.0.5
+torch>=2.0.0
+transformers>=4.30.0
+jax>=0.4.20
+jaxlib>=0.4.20
+huggingface_hub>=0.20.1
